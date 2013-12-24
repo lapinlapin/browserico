@@ -1,0 +1,92 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+/*ICONS LAYER*/
+.wrap {
+	min-width: 800px;
+	z-index: 100;
+	position: relative;
+}
+
+ul {
+	list-style: none;	
+	text-align: left;
+}
+
+
+ul li {
+	width: 120px;
+	height: 122px;
+	overflow: hidden;
+	display: inline-block;
+	text-align: center;
+	margin: 5px 5px;
+}
+
+
+/*TEXT CHROME*/
+.chrome {
+	font: normal 16px Arial;
+}
+
+.ch {
+	color: #00A20D;
+}
+
+.ro {
+	color: #F63030;
+}
+
+.me {
+	color: #FFD500;
+}
+
+/*TEXT FIREFOX*/
+.firefox {
+	font: normal 16px Arial;
+	color: #FFD500;
+}
+
+/*TEXT OPERA*/
+.opera {
+	font: normal 16px Arial;
+	color: #F14D4D;
+}
+
+/*TEXT SAFARI*/
+.safari {
+	font: normal 16px Arial;
+	color: #848484;
+}
+
+/*TEXT YANDEX*/
+.yandex {
+	font: normal 16px Arial;
+	color: #848484;
+}
+
+.y {
+	color: #FF1C1C;
+}
+
+.andex {
+	color: #000;
+}
+
+
+.ie {
+	overflow: hidden;
+    width: 120px;
+    height: 125px;
+    top:51px;
+    float: right;
+    font: normal 16px Arial;
+    color: #006DA6;
+    margin: 5px 5px 0 0;
+    text-align: center;
+}
+
+.ie p {
+	width: 110px;
+}
